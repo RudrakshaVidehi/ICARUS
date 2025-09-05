@@ -1,0 +1,190 @@
+{
+    "phase3_coding": [
+        {
+            "path": "data/cubesat_dataset/phase3_coding/convolutional/snr_8db/sample_000",
+            "phase": "phase3_coding",
+            "ber": 0.47265625,
+            "snr_db": 8
+        },
+        {
+            "path": "data/cubesat_dataset/phase3_coding/convolutional/snr_8db/sample_001",
+            "phase": "phase3_coding",
+            "ber": 0.490234375,
+            "snr_db": 8
+        },
+        {
+            "path": "data/cubesat_dataset/phase3_coding/convolutional/snr_12db/sample_000",
+            "phase": "phase3_coding",
+            "ber": 0.478515625,
+            "snr_db": 12
+        },
+        {
+            "path": "data/cubesat_dataset/phase3_coding/convolutional/snr_12db/sample_001",
+            "phase": "phase3_coding",
+            "ber": 0.486328125,
+            "snr_db": 12
+        },
+        {
+            "path": "data/cubesat_dataset/phase3_coding/reed_solomon/snr_8db/sample_000",
+            "phase": "phase3_coding",
+            "ber": 0.533203125,
+            "snr_db": 8
+        },
+        {
+            "path": "data/cubesat_dataset/phase3_coding/reed_solomon/snr_8db/sample_001",
+            "phase": "phase3_coding",
+            "ber": 0.48046875,
+            "snr_db": 8
+        },
+        {
+            "path": "data/cubesat_dataset/phase3_coding/reed_solomon/snr_12db/sample_000",
+            "phase": "phase3_coding",
+            "ber": 0.517578125,
+            "snr_db": 12
+        },
+        {
+            "path": "data/cubesat_dataset/phase3_coding/reed_solomon/snr_12db/sample_001",
+            "phase": "phase3_coding",
+            "ber": 0.52734375,
+            "snr_db": 12
+        }
+    ],
+    "phase2_snr": [
+        {
+            "path": "data/cubesat_dataset/phase2_snr/snr_5db/sample_000",
+            "phase": "phase2_snr",
+            "ber": 0.49755859375,
+            "snr_db": 5
+        },
+        {
+            "path": "data/cubesat_dataset/phase2_snr/snr_5db/sample_002",
+            "phase": "phase2_snr",
+            "ber": 0.50390625,
+            "snr_db": 5
+        },
+        {
+            "path": "data/cubesat_dataset/phase2_snr/snr_5db/sample_001",
+            "phase": "phase2_snr",
+            "ber": 0.4990234375,
+            "snr_db": 5
+        },
+        {
+            "path": "data/cubesat_dataset/phase2_snr/snr_10db/sample_000",
+            "phase": "phase2_snr",
+            "ber": 0.49755859375,
+            "snr_db": 10
+        },
+        {
+            "path": "data/cubesat_dataset/phase2_snr/snr_10db/sample_002",
+            "phase": "phase2_snr",
+            "ber": 0.517578125,
+            "snr_db": 10
+        },
+        {
+            "path": "data/cubesat_dataset/phase2_snr/snr_10db/sample_001",
+            "phase": "phase2_snr",
+            "ber": 0.50634765625,
+            "snr_db": 10
+        },
+        {
+            "path": "data/cubesat_dataset/phase2_snr/snr_0db/sample_000",
+            "phase": "phase2_snr",
+            "ber": 0.50244140625,
+            "snr_db": 0
+        },
+        {
+            "path": "data/cubesat_dataset/phase2_snr/snr_0db/sample_002",
+            "phase": "phase2_snr",
+            "ber": 0.50048828125,
+            "snr_db": 0
+        },
+        {
+            "path": "data/cubesat_dataset/phase2_snr/snr_0db/sample_001",
+            "phase": "phase2_snr",
+            "ber": 0.490234375,
+            "snr_db": 0
+        },
+        {
+            "path": "data/cubesat_dataset/phase2_snr/snr_15db/sample_000",
+            "phase": "phase2_snr",
+            "ber": 0.51123046875,
+            "snr_db": 15
+        },
+        {
+            "path": "data/cubesat_dataset/phase2_snr/snr_15db/sample_002",
+            "phase": "phase2_snr",
+            "ber": 0.48095703125,
+            "snr_db": 15
+        },
+        {
+            "path": "data/cubesat_dataset/phase2_snr/snr_15db/sample_001",
+            "phase": "phase2_snr",
+            "ber": 0.4951171875,
+            "snr_db": 15
+        }
+    ],
+    "phase4_doppler": [
+        {
+            "path": "data/cubesat_dataset/phase4_doppler/doppler_-5000Hz/snr_10db",
+            "phase": "phase4_doppler",
+            "ber": 0.4921875,
+            "snr_db": 10
+        },
+        {
+            "path": "data/cubesat_dataset/phase4_doppler/doppler_-5000Hz/snr_15db",
+            "phase": "phase4_doppler",
+            "ber": 0.49609375,
+            "snr_db": 15
+        },
+        {
+            "path": "data/cubesat_dataset/phase4_doppler/doppler_2000Hz/snr_10db",
+            "phase": "phase4_doppler",
+            "ber": 0.5234375,
+            "snr_db": 10
+        },
+        {
+            "path": "data/cubesat_dataset/phase4_doppler/doppler_2000Hz/snr_15db",
+            "phase": "phase4_doppler",
+            "ber": 0.4990234375,
+            "snr_db": 15
+        }
+    ],
+    "phase1_timing": [
+        {
+            "path": "data/cubesat_dataset/phase1_timing/snr_5db/sample_000",
+            "phase": "phase1_timing",
+            "ber": 0.5126953125,
+            "snr_db": 5
+        },
+        {
+            "path": "data/cubesat_dataset/phase1_timing/snr_5db/sample_002",
+            "phase": "phase1_timing",
+            "ber": 0.494140625,
+            "snr_db": 5
+        },
+        {
+            "path": "data/cubesat_dataset/phase1_timing/snr_5db/sample_001",
+            "phase": "phase1_timing",
+            "ber": 0.5048828125,
+            "snr_db": 5
+        },
+        {
+            "path": "data/cubesat_dataset/phase1_timing/snr_10db/sample_000",
+            "phase": "phase1_timing",
+            "ber": 0.462890625,
+            "snr_db": 10
+        },
+        {
+            "path": "data/cubesat_dataset/phase1_timing/snr_10db/sample_002",
+            "phase": "phase1_timing",
+            "ber": 0.5,
+            "snr_db": 10
+        },
+        {
+            "path": "data/cubesat_dataset/phase1_timing/snr_10db/sample_001",
+            "phase": "phase1_timing",
+            "ber": 0.515625,
+            "snr_db": 10
+        }
+    ]
+}
